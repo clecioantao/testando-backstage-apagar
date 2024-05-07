@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: testando-backstage-apagar
+  file_path: Dockerfile
+  description: Testes gerais
+spec:
+  lifecycle: production
+  owner: platform
+  type: service
