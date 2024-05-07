@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: c4-dmp-file-checker
-  file_path: src/main/docker/Dockerfile
+  name: teste-clecio-apagar-1
+  file_path: Dockerfile
   description: Testes gerais
 spec:
   lifecycle: production
