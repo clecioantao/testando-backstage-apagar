@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: testando-backstage-apagar
-  file_path: Dockerfile
+  name: c4-dmp-file-checker
+  file_path: src/main/docker/Dockerfile
   description: Testes gerais
 spec:
   lifecycle: production
